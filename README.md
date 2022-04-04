@@ -12,8 +12,14 @@ The purpose of this project was to compare a dozen stocks for Steve between the 
 ![Intial 2018 Stock Analysis Output](https://user-images.githubusercontent.com/101950175/161590433-f667fed5-440c-4c89-8a41-a9acd5bf88b6.png)
 
 After refactoring the code we were able to shorten the run time in 2017 from 0.287 seconds to 0.066 seconds, and in 2018 from 0.273 to 0.074 seconds - it now runs for both years in about a fourth or the original run time.
-![Refactored 2017 Stock Analysis Output](https://user-images.githubusercontent.com/101950175/161590893-975ec059-46d9-4db2-a7a4-f6009669031d.png)
-![Refactored 2018 Stock Analysis Output](https://user-images.githubusercontent.com/101950175/161590899-ad7a89a5-4bbc-4f2d-b89d-079122f57719.png)
+### Refactored 2017 Stock Execution Time
+![VBA Challenge 2017](https://user-images.githubusercontent.com/101950175/161594236-5929a954-5fc2-487c-8543-a9ea737d12ea.png)
+### Refactored 2018 Stock Execution Time
+![VBA Challenge 2018](https://user-images.githubusercontent.com/101950175/161594253-2f900419-e3e0-4839-8d1d-a389a6df4935.png)
 ## Summary
 ### Advantages and Disadvantages of Refactoring Code
+There are advantages to refactoring code:
+- efficiency - taking fewer steps, using less memory, and the removal of redundant code.
+- readability - improves design and makes the code easier to understand.
+- 
 ### Pros and Cons of Applying Refactored Code to Original VBA Script
