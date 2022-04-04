@@ -5,6 +5,8 @@ The purpose of this project was to compare a dozen stocks for Steve between the 
 Based on the below stock comparison between 2017 and 2018, Steve should not be investing money into the DAQO("DQ") stocks.  In 2017, the "DQ" stock had almost a 200% positive annual return, but in 2018 had a negative return of 63%. Overall in 2017, 11 out of the 12 stocks had a positive return except "TERP" which had a negative return - if only looking at 2017 then it shows the "DQ" stock as highly favorable and a good investment.  However, once you look at 2018, 10 out of the 12 stocks had negative returns except "ENPH" and "RUN" which had positive returns which means these stocks seem highly unstable and not a good investment for Steve's parents to make.
 ![2017 Stock Analysis](https://user-images.githubusercontent.com/101950175/161590584-3644e495-f3e3-4f5f-9eab-75bddf60a840.png)
 ![2018 Stock Analysis](https://user-images.githubusercontent.com/101950175/161590591-a7d80720-f3f0-439d-bfa0-36378d649fa7.png)
+### Intial Code
+![Original Code](https://user-images.githubusercontent.com/101950175/161603059-98f881ca-0c2f-4e8a-a44e-5a752080c5c0.png)
 ### Initial 2017 Stock Execution Time
 ![Initial 2017 Stock Analysis Output](https://user-images.githubusercontent.com/101950175/161590391-ad9c1238-0b86-4b40-8b7b-521f8e4cdee7.png)
 ### Intial 2018 Stock Execution Time
