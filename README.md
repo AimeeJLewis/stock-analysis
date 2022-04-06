@@ -11,15 +11,17 @@ Based on the below stock comparison between 2017 and 2018, Steve should not be i
 ![Initial 2017 Stock Analysis Output](https://user-images.githubusercontent.com/101950175/161590391-ad9c1238-0b86-4b40-8b7b-521f8e4cdee7.png)
 ### Intial 2018 Stock Execution Time
 ![Initial 2018 Stock Analysis Output](https://user-images.githubusercontent.com/101950175/161590433-f667fed5-440c-4c89-8a41-a9acd5bf88b6.png)
+
 With our intial code we were able to get the above run times - while our code works for analyzing Steve's dozen stocks, we need to refactor our code in order for it to be able to perform and give an output for thousands of stocks with a quicker run time.
 ### Refactored Code
 ![Refactored Code](https://user-images.githubusercontent.com/101950175/161599916-1d794c08-2fc9-40eb-bdfa-23543a2b1eba.png)
-After refactoring the code we were able to shorten the run time in 2017 from 0.287 seconds to 0.066 seconds, and in 2018 from 0.273 to 0.074 seconds - it now runs for both years in about a fourth or the original run time.
 ### Refactored 2017 Stock Execution Time
 ![VBA Challenge 2017](https://user-images.githubusercontent.com/101950175/161594236-5929a954-5fc2-487c-8543-a9ea737d12ea.png)
 ### Refactored 2018 Stock Execution Time
 ![VBA Challenge 2018](https://user-images.githubusercontent.com/101950175/161594253-2f900419-e3e0-4839-8d1d-a389a6df4935.png)
-When we refactored, we created a tickerIndex and added three output arrays to account for and removed the nested loops.  This helped increase our execution time as shown in our refactored code. 
+
+After refactoring the code we were able to shorten the run time in 2017 from 0.287 seconds to 0.066 seconds, and in 2018 from 0.273 to 0.074 seconds - it now runs for both years in about a fourth or the original run time. When we refactored, we created a tickerIndex and added three output arrays to account for and removed the nested loops.  
+
 ## Summary
 ### Advantages and Disadvantages of Refactoring Code
 There are advantages to refactoring code:
